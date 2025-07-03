@@ -30,6 +30,8 @@ To identify the key factors that make a video trend on YouTube, such as:
 
 ---
 
+
+
 ## ⚙️ Feature Engineering
 
 Additional fields created:
@@ -40,6 +42,21 @@ Additional fields created:
 - `category_name` – Mapped from `category_id` using YouTube API metadata
 
 ---
+
+## 🎥 Top YouTube Categories by Average Views
+
+| Rank | Category         | Performance |
+|------|------------------|-------------|
+| 1    | Music            | 🚀 Highest  |
+| 2    | Entertainment    | High        |
+| 3    | Film & Animation | High        |
+| 4    | Comedy           | Moderate    |
+| ...  | Travel & Events  | Low         |
+
+> **Note**: Music far outperforms other categories in average view count.
+
+---
+
 
 ## 📊 Dashboard Highlights (Built in Tableau)
 
